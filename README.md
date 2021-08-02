@@ -1,4 +1,4 @@
-LIVE DEMO:-https://netflix-clone-0cf239.netlify.app/ (#demo)
+LIVE DEMO:-https://netflix-clone-0cf239.netlify.app/
 
 
 # Getting Started with Create React App
